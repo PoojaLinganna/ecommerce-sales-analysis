@@ -154,5 +154,7 @@ This project demonstrates the following analytics skills:
 # Author
 
 **Pooja Linganna**
+
 Data Analytics Graduate
+
 Interested in **consumer insights, business analytics, and data visualization**
