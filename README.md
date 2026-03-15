@@ -148,13 +148,3 @@ This project demonstrates the following analytics skills:
 * Dashboard development
 * Data storytelling
 * End-to-end analytics workflow
-
----
-
-# Author
-
-**Pooja Linganna**
-
-Data Analytics Graduate
-
-Interested in **consumer insights, business analytics, and data visualization**
