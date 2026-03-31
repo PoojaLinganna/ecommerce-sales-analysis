@@ -121,11 +121,7 @@ The Power BI dashboard includes:
 
 # Dashboard Preview
 
-Click the image below to open the dashboard file.
-
-```markdown
-[![Dashboard Preview](dashboard/dashboard_screenshot.png)](dashboard/ecommerce_sales_dashboard.pbix)
-```
+![Dashboard Preview](dashboard_screenshot.png)
 
 # Key Insights
 
